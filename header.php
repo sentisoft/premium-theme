@@ -11,6 +11,7 @@
 <head>
   <!-- BASE -->
   <meta charset="<?php bloginfo( 'charset' ); ?>">
+  <meta name="theme-color" content="#0c3a6c"> <!-- theme-color-in-Chrome-39-for-Android -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
   <link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/favicon.ico" type="image/x-icon" />
   <link rel="profile" href="http://gmpg.org/xfn/11">
